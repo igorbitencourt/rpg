@@ -9,7 +9,7 @@ vveloc = 0;
 
 veloc = 2;
 
-
+dir = 0;
 
 
 
