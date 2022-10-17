@@ -32,7 +32,7 @@
 
 dir = floor((point_direction(x, y, mouse_x, mouse_y) + 45)/90);
 
-if hveloc and vveloc == 0 {
+if hveloc == 0 and vveloc == 0 {
 switch dir {
 	default:
 		sprite_index = spr_personagem_parado_direita;
