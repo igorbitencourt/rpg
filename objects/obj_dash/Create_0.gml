@@ -1,3 +1,6 @@
 /// @description Insert description here
-script_execute(estado);
+image_alpha = 0.6;
+
+
+
 

@@ -1,3 +1,6 @@
 /// @description Insert description here
-script_execute(estado);
+estado = scr_personagem_andando;
+
+
+
 
